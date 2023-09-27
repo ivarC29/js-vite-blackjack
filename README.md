@@ -5,7 +5,7 @@ How to init the project:
 1. Clone repository
 2. Execute ```npm install``` 
 3. run devServer ```npm run dev```
-4. Open project in: ```localhost:3000```
+4. Open project in: ```http://localhost:3000```
 
 ## Production
 
